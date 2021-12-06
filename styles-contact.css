@@ -108,9 +108,10 @@ p {
 
 nav{
 text-align: center;
-font-size: 1.2em;
+text-decoration-color: white;
+font-size: 3em;
 width: 400px;
-border: dashed brown;
+border: dashed white;
 margin: 0 auto;
 border-width: 3px ;
 margin-top: 2em ;
